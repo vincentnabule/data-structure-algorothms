@@ -1,2 +1,2 @@
-# data-structure-algorothms
-Implementation of different data structures an algorithms using java language
+# data-structure-and-algorithms
+Implementation of different data structures and algorithms using java language
